@@ -10,6 +10,8 @@ public class Wolf extends Animal implements Hunting, Running {
     }
 
 
+    public Wolf() {
+    }
 
     @Override
     public String eat() {
