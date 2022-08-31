@@ -9,8 +9,7 @@ public class Wolf extends Animal implements Hunting, Running {
         super(name, type, clas, family, squad, weight);
     }
 
-    public Wolf() {
-    }
+
 
     @Override
     public String eat() {

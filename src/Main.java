@@ -2,7 +2,7 @@ import model.*;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String [] args) {
 
         Tiger sherhan = new Tiger("Шерхан","тигр","млекопитающий","кошачьи","хищные", 300);
         Tiger sher = new Tiger("Шер","тигр","млекопитающий","кошачьи","хищные", 300);
